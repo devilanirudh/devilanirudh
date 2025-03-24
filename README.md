@@ -35,16 +35,30 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </div>
 
-## 🚀 Cool Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/devilanirudh/Tech_connect_hub_realtime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilanirudh&repo=Tech_connect_hub_realtime&theme=radical" alt="TechConnect Hub" />
+  <a href="https://github.com/devilanirudh/devilanirudh-youtube-X-Invideo-automated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilanirudh&repo=devilanirudh-youtube-X-Invideo-automated&theme=radical" alt="YouTube Automation" />
   </a>
-  <a href="https://github.com/devilanirudh/play_store_reviews_scraper_playwright">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilanirudh&repo=play_store_reviews_scraper_playwright&theme=radical" alt="Play Store Scraper" />
+  <a href="https://github.com/devilanirudh/agno_agentic_rag">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilanirudh&repo=agno_agentic_rag&theme=radical" alt="Agentic RAG" />
   </a>
 </div>
+
+### 🎥 YouTube Content Automation
+- Automated video generation using InVideo AI
+- YouTube upload automation with scheduling
+- AI-powered content generation with Google's Gemini
+- RESTful API endpoints for content management
+- [View Project](https://github.com/devilanirudh/devilanirudh-youtube-X-Invideo-automated)
+
+### 🤖 Agentic RAG System
+- Multiple implementation approaches (Agno, LangChain)
+- Vector database integration with PostgreSQL
+- Google Cloud Vertex AI integration
+- Persistent memory and chat history
+- [View Project](https://github.com/devilanirudh/agno_agentic_rag)
 
 ## 📊 GitHub Stats
 
@@ -105,10 +119,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilanirudh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎨 Profile 3D Contribution Calendar
+## 🎨 Snake Game Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/devilanirudh/devilanirudh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devilanirudh/devilanirudh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devilanirudh/devilanirudh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devilanirudh/devilanirudh/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
