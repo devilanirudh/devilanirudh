@@ -9,9 +9,14 @@
   <img src="https://img.shields.io/github/followers/devilanirudh?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-## 🎮 Interactive Profile Game
+## 🎮 Let's Play a Game!
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devilanirudh/devilanirudh/main/snake.svg" alt="Snake animation" />
+  <a href="https://github.com/devilanirudh/devilanirudh/issues/new?title=Chess%3A+Move+E2+to+E4&body=Just+push+%27Submit+new+issue%27+to+make+your+move.+Please+wait+30+seconds+for+the+board+to+update.">
+    <img src="https://github.com/devilanirudh/devilanirudh/blob/main/chess.svg" alt="Chess game">
+  </a>
+  <br>
+  <i>♟️ It's your turn to move! Click on the board to play chess with me.</i>
 </div>
 
 ## 🎯 What I Do
@@ -60,31 +65,98 @@
 - Persistent memory and chat history
 - [View Project](https://github.com/devilanirudh/agno_agentic_rag)
 
-## 📊 GitHub Stats
+## 📊 Coding Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilanirudh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilanirudh&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devilanirudh&show_icons=true&theme=radical&count_private=true" alt="Anirudh's GitHub stats" />
 </div>
 
-## 🌟 Achievements & Highlights
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎥 Created YouTube Content Automation System
+2. 🤖 Developed Agentic RAG System
+3. 🔄 Updated Profile README
+<!--END_SECTION:activity-->
+
+## 🏆 Achievements Board
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Financial_Risk_Management-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Financial Risk Management" />
-  <img src="https://img.shields.io/badge/Tech_Fest_Organizer-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Tech Fest Organizer" />
-  <img src="https://img.shields.io/badge/Hackathon_Participant-00CED1?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Participant" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌟-Contributions-brightgreen?style=for-the-badge" alt="Contributions"/>
+        <br />
+        <strong>500+</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀-Projects-blue?style=for-the-badge" alt="Projects"/>
+        <br />
+        <strong>15+</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻-Repositories-purple?style=for-the-badge" alt="Repositories"/>
+        <br />
+        <strong>30+</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📈 Contribution Graph
+## 🎮 Play Snake Game!
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilanirudh&theme=radical" alt="Contribution Graph" />
+  <a href="https://github.com/devilanirudh?tab=repositories">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  </a>
+  <br>
+  <i>🐍 Watch the snake eat my contributions! Each green square is a day I coded.</i>
 </div>
 
-## 🎮 Fun Facts About Me
+## 📈 Contribution Overview
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <!-- Contribution Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devilanirudh&layout=compact&theme=radical" alt="Most Used Languages" />
+  
+  <!-- Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=devilanirudh&theme=redical&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🎯 Skill Progress
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">Python</td>
+      <td>
+        <img src="https://progress-bar.dev/90/?title=Expert&width=500&color=2ECC71" alt="Python Progress"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">AI/ML</td>
+      <td>
+        <img src="https://progress-bar.dev/85/?title=Advanced&width=500&color=E74C3C" alt="AI/ML Progress"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Backend Development</td>
+      <td>
+        <img src="https://progress-bar.dev/88/?title=Advanced&width=500&color=3498DB" alt="Backend Progress"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎨 Weekly Development Breakdown
+
+<div align="center">
+  ```text
+  Python       16 hrs 40 mins  ███████████░░░░░  70.5%
+  FastAPI      4 hrs 30 mins   ████░░░░░░░░░░░░  19.0%
+  Docker       1 hr 45 mins    ██░░░░░░░░░░░░░░   7.4%
+  Other        45 mins         █░░░░░░░░░░░░░░░   3.1%
+  ```
 </div>
 
 ## 🤝 Let's Connect!
