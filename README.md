@@ -4,24 +4,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI;Turning+ideas+into+reality;Always+learning+and+growing" alt="Typing SVG" />
 </div>
 
+## 🐍 Watch My Contribution Snake!
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devilanirudh&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/devilanirudh?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-## 🎮 Let's Play Chess!
+## 🎮 Interactive Profile
 
 <div align="center">
-  <a href="https://github.com/devilanirudh/devilanirudh/issues/new?title=Chess%3A+Move+E2+to+E4&body=Please+enter+your+move+in+algebraic+notation%0D%0AFor+example%3A+%27E2+to+E4%27+or+%27Nf3%27%0D%0AClick+%27Submit+new+issue%27+to+make+your+move.">
-    <img src="chess.svg" alt="Chess board" width="400"/>
+  <a href="https://github.com/devilanirudh?tab=repositories&sort=stargazers">
+    <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilanirudh&layout=compact&theme=radical&hide_border=true&count_private=true" />
   </a>
   
   <br/>
   <div align="center">
-    <h3>♟️ It's your turn to move!</h3>
-    <p>Click the board to create an issue for your move<br/>
-    Moves are made using algebraic notation: <code>E2 to E4</code>, <code>Nf3</code>, etc.</p>
-    <a href="https://github.com/devilanirudh/devilanirudh/issues/new?title=Chess%3A+Reset+Game&body=Please+click+%27Submit+new+issue%27+to+reset+the+game">Reset Game</a>
+    <h3>🎯 Quick Stats</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilanirudh&theme=radical&hide_border=true" alt="GitHub Streak" />
   </div>
 </div>
 
