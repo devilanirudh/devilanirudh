@@ -9,14 +9,20 @@
   <img src="https://img.shields.io/github/followers/devilanirudh?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-## 🎮 Let's Play a Game!
+## 🎮 Let's Play Chess!
 
 <div align="center">
-  <a href="https://github.com/devilanirudh/devilanirudh/issues/new?title=Chess%3A+Move+E2+to+E4&body=Just+push+%27Submit+new+issue%27+to+make+your+move.+Please+wait+30+seconds+for+the+board+to+update.">
-    <img src="https://github.com/devilanirudh/devilanirudh/blob/main/chess.svg" alt="Chess game">
+  <a href="https://github.com/devilanirudh/devilanirudh/issues/new?title=Chess%3A+Move+E2+to+E4&body=Please+enter+your+move+in+algebraic+notation%0D%0AFor+example%3A+%27E2+to+E4%27+or+%27Nf3%27%0D%0AClick+%27Submit+new+issue%27+to+make+your+move.">
+    <img src="chess.svg" alt="Chess board" width="400"/>
   </a>
-  <br>
-  <i>♟️ It's your turn to move! Click on the board to play chess with me.</i>
+  
+  <br/>
+  <div align="center">
+    <h3>♟️ It's your turn to move!</h3>
+    <p>Click the board to create an issue for your move<br/>
+    Moves are made using algebraic notation: <code>E2 to E4</code>, <code>Nf3</code>, etc.</p>
+    <a href="https://github.com/devilanirudh/devilanirudh/issues/new?title=Chess%3A+Reset+Game&body=Please+click+%27Submit+new+issue%27+to+reset+the+game">Reset Game</a>
+  </div>
 </div>
 
 ## 🎯 What I Do
