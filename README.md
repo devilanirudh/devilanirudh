@@ -116,11 +116,65 @@
 ## 📈 Contribution Overview
 
 <div align="center">
-  <!-- Contribution Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devilanirudh&layout=compact&theme=radical" alt="Most Used Languages" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilanirudh&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
   
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=devilanirudh&theme=redical&hide_border=true" alt="Contribution Graph" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devilanirudh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+## 🎯 Skills & Technologies
+
+<div align="center">
+  <!-- Python Skills -->
+  <div>
+    <h3>Python & AI Development</h3>
+    <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-★★★★☆-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Django-★★★★☆-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  </div>
+  
+  <!-- AI/ML Skills -->
+  <div>
+    <h3>AI/ML Stack</h3>
+    <img src="https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-★★★★☆-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-★★★★☆-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  </div>
+  
+  <!-- Backend Skills -->
+  <div>
+    <h3>Backend Technologies</h3>
+    <img src="https://img.shields.io/badge/Docker-★★★★☆-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-★★★★☆-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-★★★★☆-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </div>
+</div>
+
+## 📊 Coding Activity
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=devilanirudh&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilanirudh&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</div>
+
+## 🎮 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devilanirudh/devilanirudh/snake-output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devilanirudh/devilanirudh/snake-output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/devilanirudh/devilanirudh/snake-output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devilanirudh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 🎯 Skill Progress
