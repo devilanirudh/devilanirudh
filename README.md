@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/github/followers/devilanirudh?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
+## 🎮 Interactive Profile Game
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devilanirudh/devilanirudh/main/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🎯 What I Do
 
 <div align="center">
@@ -41,7 +46,7 @@
   </a>
 </div>
 
-## �� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilanirudh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -60,6 +65,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilanirudh&theme=radical" alt="Contribution Graph" />
+</div>
+
+## 🎮 Fun Facts About Me
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -86,6 +97,18 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devilanirudh&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
+## 🎯 Current Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilanirudh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🎨 Profile 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://github.com/devilanirudh/devilanirudh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
