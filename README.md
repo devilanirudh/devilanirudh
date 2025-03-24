@@ -119,7 +119,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilanirudh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎨 Snake Game Contribution Graph
+## 🎨 Contribution Snake
 
 <div align="center">
   <picture>
@@ -127,6 +127,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devilanirudh/devilanirudh/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devilanirudh/devilanirudh/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+## 📊 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilanirudh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
